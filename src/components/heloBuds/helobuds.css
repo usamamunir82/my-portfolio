@@ -1,0 +1,157 @@
+@media only screen and (max-width: 1030px) {
+
+    .helobudsImg img{
+        width: 100%;
+        min-width: 200px;
+        min-height: 500px;
+        /* width: 100%; */
+    }
+
+}
+@media only screen and (max-width: 870px) {
+    .helobudsImg img{
+        width: 100%;
+        min-width: 100px;
+        min-height: 500px;
+      
+    }
+}
+@media only screen and (max-width: 770px) {
+    .helobudsImg img{
+        width: 100%;
+        min-width: 100px;
+        min-height: 400px;
+        margin-left: -100px;
+      
+    }
+}
+@media only screen and (max-width: 660px) {
+.heloBudsContainer{
+    display: flex;
+    flex-direction: column;
+}
+.helobudsImg img{
+    margin-left:40px ;
+    margin-top: -140px;
+}
+}
+@media only screen and (max-width: 490px) {
+    .helobudsButon{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.heloBudsContainer{
+    display: flex;
+    padding: 60px;
+    gap: 180px;
+}
+.helobudsContent h3{
+    font-weight: 600;
+    font-size: 2.5vw;
+    line-height: 54px;
+    color: #FFFFFF;
+    
+}
+.diamas{
+    color: #7456FF;
+}
+.helobudsContent h2{
+    padding-top: 10px;
+    font-weight: 600;
+font-size: 3vw;
+line-height: 78px;
+color: white;
+}
+.helobudsContent p{
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 1em;
+    line-height: 30px;
+    color: #999999;
+    
+}
+.heloBorder{
+    padding-top: 50px;
+    width: 76px;
+    border-bottom: 3px solid #999999;
+border-radius: 2px;
+}
+.helobudsButon{
+    display: flex;
+    gap: 30px;
+    padding-top: 30px;
+}
+
+.downloadCv button{
+
+color: #FFFFFF;
+    font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+    background: #7456FF;
+border-radius: 5px;
+    width:190px;
+height: 60px;
+}
+.More button{
+border-radius: 5px;
+    border: 2px solid;
+    background-color: black;
+    width:190px;
+    height: 60px;
+    color: #FFFFFF;
+    font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+}
+.helobudsImg img{
+    /* width: 100%; */
+    max-width: 370px;
+    /* min-width: 370px; */
+}
+.helobudsImg{
+    /* width: 100%; */
+
+    padding-right: 100px;
+}
+.icons{
+    padding-right: 90px;
+justify-content: flex-end;
+    display: flex;
+    gap: 30px;
+align-items: center;   
+
+
+}
+.icons p{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    
+    
+    color: #FFFFFF;
+}
+.icons div{
+    
+    border: 1px solid #0F0F0F;
+border-radius: 100px;
+width: 50px;
+height: 50px;
+text-align: center;
+background: #161326;
+padding-top: 15px;
+/* color: linear-gradient(103.38deg, #7456FF 8.68%, #8368FF 100%); */
+}
+.facebook{
+   
+    color: #7456FF;
+    /* opacity: 0.1;
+    background: #7456FF; */
+    /* opacity: none;
+    color: green; */
+    /* opacity: 1; */
+    /* color: #8368FF; */
+    
+}

@@ -1,0 +1,63 @@
+
+
+.footerContent h2{
+    font-weight: 600;
+    font-size: 2vw;
+    line-height: 54px;
+    color: #FFFFFF;
+}
+.footerContentPara{
+    font-weight: 400;
+font-size: 1.2vw;
+line-height: 1vw;
+color: #999999;
+
+}
+.footerContent{
+    padding: 90px;
+}
+.detailAdressBox{
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.detailsBox{
+    display: flex;
+    gap: 30px;
+}
+.footerIconBox{
+    width: 52px;
+height: 52px;
+border: 1px solid #FFFFFF;
+border-radius: 50%;
+text-align: center;
+}
+.footerIcon{
+    padding-top: 12px;
+    width: 32px;
+    height: 32px;
+    color: white;
+
+}
+.footerNo{
+    font-weight: 400;
+font-size: 1.2vw;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.footerInfo{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+/* Sr Grey */
+
+color: #999999;
+
+}
